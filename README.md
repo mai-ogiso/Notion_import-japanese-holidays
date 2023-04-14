@@ -3,6 +3,9 @@
 This script allows you to easily import Japanese holidays into your Notion calendar. 
 
 As of the current date (2023/04/11), there is no built-in function in Notion to import Japanese holidays.
+
+Using this feature will import Japanese holidays as shown below. 
+Entries that start with the Japanese flag indicate a holiday.
 ![Notion-japanese-holidays-sample](https://user-images.githubusercontent.com/95740190/230990301-6eb042b0-c8e4-43dd-a910-265e0b17b084.png)
 
 ## Getting Started
