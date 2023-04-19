@@ -48,3 +48,7 @@ To make it more accessible, you could consider creating a user-friendly version 
 ## Acknowledgments
 
 - [Holidays JP API](https://holidays-jp.github.io/) for providing Japanese holidays data.
+
+## Related project
+
+- [Notion_import-repeating-schedules](https://github.com/mai-ogiso/Notion_import-repeating-schedules) 
